@@ -1,2 +1,1 @@
-# TRABALHO-PR-TICO-III---Gerenciamento-de-Projetos-de-Inova-o
-Este repositório contém o desenvolvimento de um projeto acadêmico focado no gerenciamento de projetos para a criação de um sistema de reserva online para hotéis.
+Este repositório contém o desenvolvimento de um sistema de reserva online para hotéis, criado como parte de um projeto acadêmico de Gerenciamento de Projetos de Inovação. A ideia é construir uma aplicação que automatize o processo de reservas, oferecendo uma experiência mais prática para clientes e otimizando a operação para os hotéis.
